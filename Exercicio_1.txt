@@ -1,0 +1,1 @@
+CSS, HTML 5 e JavaScript são importantes para o desenvolvimento web porque elas são as mais suportadas pelos navegadores de internet (chrome, edge, opera, etc) e pelos padrões da web, permitindo criar sites dinâmicos, responsivos e interativos que podem atender às necessidades e expectativas dos usuários.
